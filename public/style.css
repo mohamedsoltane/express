@@ -1,0 +1,48 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  h1, p {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  p {
+    margin-top: 20px;
+  }
+  
+  body {
+    background-color: #f2f2f2;
+  }
+
+  
+  
+  
+  
+  
